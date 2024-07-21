@@ -1,0 +1,1 @@
+Utility to transfer expense records from Expense Manager to Money Manager
